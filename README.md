@@ -1,3 +1,9 @@
-## "Hello world👋, I am Florence - Coding Newbie with Big Dreams!"
+## "Hello world👋, I am Florence - motivated beginner!"
 
-I am an animal biologist transitioning into a second career in programming. Looking for an internship starting in June 2025. Feel free to contact me :)
+
+⚒️ Currently learning Java
+✅ Professional interests: GIS, environment, health
+🎓 Training: IT Specialist (04/2024 -> 01/2026)
+📌 Karlsruhe(Germany)
+    
+
