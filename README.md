@@ -1,7 +1,7 @@
 ## "Hello world👋 "
 
 
-⚒️ Currently learning Java and postgreSQL (postGIS)  
+⚒️ Currently learning: Java, Spring Boot, postgreSQL, JPA  
 ✅ Professional interests: GIS, environment, public transport, health  
 🎓 Training: IT Specialist (04/2024 -> 01/2026)  
 📌 Karlsruhe(Germany)  
