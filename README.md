@@ -1,7 +1,7 @@
 ## "Hello world👋 "
 
 
-⚒️ Currently learning: Java, Spring Boot, postgreSQL, React  
+⚒️ Personal projects: Java, Spring Boot, postgreSQL, React  
 ✅ Professional interests: environment, public transport, health  
 🎓 Training: IT Specialist (04/2024 -> 01/2026)  
 📌 Karlsruhe(Germany)  
